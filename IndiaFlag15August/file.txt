@@ -1,0 +1,28 @@
+
+
+dx1.l = 984	dx1.t = 50	dx1.r = 1474	dx1.b = 150
+dx2.l = 984	dx2.t = 150	dx2.r = 1474	dx2.b = 250
+dx3.l = 984	dx3.t = 250	dx3.r = 1474	dx3.b = 350
+
+cLeft = 0
+cTop = 150
+cRight = 0
+cBottom = 250
+
+mid = 1229
+width = 100
+cLeft = 1179
+cTop = 150
+cRight = 1279
+cBottom = 250
+mp.X = 1229
+mp.Y = 200
+
+
+
+in fun
+cLeft = 1179
+cTop = 150
+cRight = 1279
+cBottom = 250
+

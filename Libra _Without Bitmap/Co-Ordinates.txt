@@ -1,0 +1,27 @@
+In WM_SIZE : left = 0, top = 0, right = 1920, bottom = 1017
+
+
+
+In MakeStar : left = 492, top = 270, right = 518, bottom = 296, xFact = 3, yFact = 3
+
+
+In MakeStar : left = 530, top = 354, right = 570, bottom = 394, xFact = 5, yFact = 5
+
+
+In MakeStar : left = 759, top = 263, right = 799, bottom = 303, xFact = 5, yFact = 5
+
+
+In MakeStar : left = 932, top = 70, right = 992, bottom = 130, xFact = 7, yFact = 7
+
+
+In MakeStar : left = 1262, top = 263, right = 1302, bottom = 303, xFact = 5, yFact = 5
+
+
+In MakeStar : left = 1125, top = 674, right = 1165, bottom = 714, xFact = 5, yFact = 5
+
+
+In MakeStar : left = 704, top = 830, right = 744, bottom = 870, xFact = 5, yFact = 5
+
+
+In MakeStar : left = 675, top = 947, right = 701, bottom = 973, xFact = 3, yFact = 3
+
