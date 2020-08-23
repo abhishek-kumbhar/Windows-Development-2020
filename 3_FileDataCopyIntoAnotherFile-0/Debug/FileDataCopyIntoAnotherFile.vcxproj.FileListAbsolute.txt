@@ -1,0 +1,2 @@
+C:\Users\Abhi\source\repos\FileDataCopyIntoAnotherFile\Debug\FileDataCopyIntoAnotherFile.exe
+C:\Users\Abhi\source\repos\FileDataCopyIntoAnotherFile\Debug\FileDataCopyIntoAnotherFile.pdb

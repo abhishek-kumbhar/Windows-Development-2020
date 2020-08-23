@@ -1,0 +1,26 @@
+
+
+method 1 :
+
+compilation and linking at Once 
+
+cl.exe /EHsc fileName.cpp
+
+	|__ fileName.cpp
+	|__ fileName.obj
+	|__ fileName.exe
+
+
+method 2 : 
+
+cl.exe /c /EHsc fileName.cpp
+
+	|__ fileName.cpp
+	|__ fileName.obj
+
+
+link.exe fileName.obj user32.lib gdi32.lib /SUBSYSTEM:WINDOWS
+	
+	|__ fileName.cpp
+	|__ fileName.obj
+	|__ fileName.exe

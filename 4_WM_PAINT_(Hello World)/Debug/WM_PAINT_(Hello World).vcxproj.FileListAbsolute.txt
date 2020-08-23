@@ -1,0 +1,2 @@
+C:\Users\Abhi\source\repos\WM_PAINT_(Hello World)\Debug\WM_PAINT_(Hello World).exe
+C:\Users\Abhi\source\repos\WM_PAINT_(Hello World)\Debug\WM_PAINT_(Hello World).pdb

@@ -1,0 +1,2 @@
+C:\Users\Abhi\source\repos\WM_PAINT_(Colourful Hello World)\Debug\WM_PAINT_(Colourful Hello World).exe
+C:\Users\Abhi\source\repos\WM_PAINT_(Colourful Hello World)\Debug\WM_PAINT_(Colourful Hello World).pdb
