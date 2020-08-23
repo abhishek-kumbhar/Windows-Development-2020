@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "India_Flag_Demo", "India_Flag_Demo.vcxproj", "{659136D5-5320-45E9-8ACC-C9847DCA7052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{659136D5-5320-45E9-8ACC-C9847DCA7052}.Debug|x64.ActiveCfg = Debug|x64
+		{659136D5-5320-45E9-8ACC-C9847DCA7052}.Debug|x64.Build.0 = Debug|x64
+		{659136D5-5320-45E9-8ACC-C9847DCA7052}.Debug|x86.ActiveCfg = Debug|Win32
+		{659136D5-5320-45E9-8ACC-C9847DCA7052}.Debug|x86.Build.0 = Debug|Win32
+		{659136D5-5320-45E9-8ACC-C9847DCA7052}.Release|x64.ActiveCfg = Release|x64
+		{659136D5-5320-45E9-8ACC-C9847DCA7052}.Release|x64.Build.0 = Release|x64
+		{659136D5-5320-45E9-8ACC-C9847DCA7052}.Release|x86.ActiveCfg = Release|Win32
+		{659136D5-5320-45E9-8ACC-C9847DCA7052}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8932F277-2B55-41AD-B1FA-3BD25C62B918}
+	EndGlobalSection
+EndGlobal

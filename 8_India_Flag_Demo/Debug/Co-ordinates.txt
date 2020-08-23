@@ -1,0 +1,18 @@
+left : 0
+top : 0
+right : 984
+bottom : 187
+
+
+left : 0
+top : 187
+right : 984
+bottom : 374
+
+
+left : 0
+top : 374
+right : 984
+bottom : 561
+
+

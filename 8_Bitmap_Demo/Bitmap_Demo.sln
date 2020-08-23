@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bitmap_Demo", "Bitmap_Demo.vcxproj", "{EBD4DD48-69E8-414F-AE73-4A768BA22B50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBD4DD48-69E8-414F-AE73-4A768BA22B50}.Debug|x64.ActiveCfg = Debug|x64
+		{EBD4DD48-69E8-414F-AE73-4A768BA22B50}.Debug|x64.Build.0 = Debug|x64
+		{EBD4DD48-69E8-414F-AE73-4A768BA22B50}.Debug|x86.ActiveCfg = Debug|Win32
+		{EBD4DD48-69E8-414F-AE73-4A768BA22B50}.Debug|x86.Build.0 = Debug|Win32
+		{EBD4DD48-69E8-414F-AE73-4A768BA22B50}.Release|x64.ActiveCfg = Release|x64
+		{EBD4DD48-69E8-414F-AE73-4A768BA22B50}.Release|x64.Build.0 = Release|x64
+		{EBD4DD48-69E8-414F-AE73-4A768BA22B50}.Release|x86.ActiveCfg = Release|Win32
+		{EBD4DD48-69E8-414F-AE73-4A768BA22B50}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38B795C5-B242-42CA-8739-B565D3763900}
+	EndGlobalSection
+EndGlobal
