@@ -1,0 +1,4 @@
+C:\Users\Abhi\source\repos\MyWindow\Debug\MyWindow.exe
+C:\Users\Abhi\source\repos\MyWindow\Debug\MyWindow.pdb
+C:\Users\Abhi\source\repos\Win32_Projects\0_MyWindow\Debug\MyWindow.exe
+C:\Users\Abhi\source\repos\Win32_Projects\0_MyWindow\Debug\MyWindow.pdb
