@@ -1,0 +1,13 @@
+left = 0, top = 0, right = 784, bottom = 761
+
+
+gRect.left      =   0, gRect.bottom / 2 = 380
+gRect.right / 2 = 392, gRect.top        =   0
+gRect.right     = 784, gRect.bottom / 2 = 380
+gRect.right / 2 = 392, gRect.bottom     = 761
+gRect.left      =   0, gRect.bottom / 2 = 380
+
+dist (a, b) = 392, 380
+dist (a, b) = 392, 380
+dist (a, b) = 392, 381
+dist (a, b) = 392, 381
