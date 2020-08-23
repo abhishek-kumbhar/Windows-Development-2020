@@ -1,0 +1,6 @@
+
+# include "Source.h"
+
+MYBITMAP BITMAP satern.bmp
+
+
