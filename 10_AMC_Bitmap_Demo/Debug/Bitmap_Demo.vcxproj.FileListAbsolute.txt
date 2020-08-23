@@ -1,0 +1,4 @@
+C:\Users\Abhi\source\repos\Bitmap_Demo\Debug\Bitmap_Demo.exe
+C:\Users\Abhi\source\repos\Bitmap_Demo\Debug\Bitmap_Demo.pdb
+C:\Users\Abhi\source\repos\10_AMC_Bitmap_Demo\Debug\Bitmap_Demo.exe
+C:\Users\Abhi\source\repos\10_AMC_Bitmap_Demo\Debug\Bitmap_Demo.pdb
